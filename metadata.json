@@ -1,0 +1,6 @@
+{
+  "name": "Aqua Bounce: Deep Sea Odyssey",
+  "description": "An enchanting underwater ball navigation adventure. Guide the bouncing bubble sphere through coral labyrinths, dodge exotic fishes, collect luminous ocean pearls, and explore ancient sunken ruins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
